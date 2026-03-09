@@ -12,11 +12,11 @@ In parallel with the physical testing, the computational phase involved steady-s
 
 To synthesize the empirical and numerical data streams, custom Python routines were developed. These scripts automate the data processing and apply Weighted Least Squares (WLS) regression, providing a critical, quantitative synthesis of the physical test results against the CFD predictions.
 
-# Computational & Analytical Stack
-CFD Solvers & Meshing: OpenFOAM
-Data Processing & Regression: Python (NumPy, SciPy, Matplotlib)
-Computer-Aided Design (CAD): CATIA
-Typesetting & Documentation: LaTeX
+## Computational & Analytical Stack
+* **CFD Solvers & Meshing:** OpenFOAM
+* **Data Processing & Regression:** Python (NumPy, SciPy, Matplotlib)
+* **Computer-Aided Design (CAD):** CATIA
+* **Typesetting & Documentation:** LaTeX
 
 # Key Results
 The integration of the experimental kinematics with the numerical CFD models yielded a strong correlation in predicting both terminal velocities and aerodynamic drag coefficients as a function of the conical apex angle. A central output of this comparative analysis is visualized below:
