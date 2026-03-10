@@ -2,8 +2,7 @@
 ### A Comparative Experimental and Numerical Study on the Geometric Dependence of Subsonic Drag Coefficients
 
 ## Project Background & Academic Context
-The raw experimental kinematic data utilized in this repository was originally acquired in 2024 as part of a winning submission to the 20th Open Inter-School Physics Competition. However, the entirety of the analytical framework, computational validation, statistical uncertainty propagation, and the final technical report were rigorously developed during my first year of Aerospace Engineering at Delft University of Technology. 
-
+The raw experimental kinematic data utilized in this repository was originally acquired in 2024 as part of a research project that secured me the first place at the 20th Open Inter-School Physics Competition. However, the entirety of the analytical framework, computational validation, statistical uncertainty propagation, and the final technical report were rigorously developed during my first year of Aerospace Engineering at Delft University of Technology.
 This repository represents a university-level elevation of those initial empirical observations, strictly adhering to advanced scientific and metrological standards to investigate phenomena beyond the scope of the original competition.
 
 ## Abstract
