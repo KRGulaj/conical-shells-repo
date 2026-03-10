@@ -27,7 +27,6 @@ The research is structured around a dual-approach validation process to accurate
 The integration of experimental kinematics with numerical CFD models yielded a strict non-linear dependence of the drag coefficient on the conical apex angle. The analysis successfully validated the semi-empirical relationship $C_d(\alpha) = a \sin^2(\alpha/2) + b$. The strictly positive intercept ($b > 0$) empirically isolates a baseline base-pressure and viscous drag component, exposing physical limitation of classical Newtonian impact theory in subsonic regimes. Moreover, the computational models validated the empirical data, falling within the defined experimental uncertainty envelope for bluff geometries ($\alpha \ge 60^\circ$). Furthermore, the study successfully isolated and quantified the aeroelastic divergence (flutter) present in highly slender geometries ($30^\circ$).
 
 ![Correlation between Experimental and Computational Drag Coefficients](results/figure_6_7.png)
-*(Figure 6.7: Correlation between empirically derived and computationally predicted drag coefficients across tested geometries, demonstrating rigorous adherence to the modeled physical regime.)*
 
 > **Note:** For a comprehensive breakdown of the mathematical derivations, boundary conditions, turbulence closure sensitivity studies, and the exact physical experimental setup, please refer to the complete technical report located in the `docs/` directory.
 
