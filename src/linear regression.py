@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-
+import os
+# Ustawia folder roboczy na ten, w którym znajduje się ten plik
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 #conf.
 
 RESOLUTION = 500
@@ -202,4 +204,5 @@ analyze_and_plot(
     output_prefix="cfd_a_b", 
     dat_filename="cfd_a(0_1.5)_b(0_1)_param_space_heatmap_data.dat",
     do_pivot_bounds=False
+
 )
