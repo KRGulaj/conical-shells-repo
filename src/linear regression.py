@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
-# Ustawia folder roboczy na ten, w którym znajduje się ten plik
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 #conf.
 
@@ -206,3 +205,4 @@ analyze_and_plot(
     do_pivot_bounds=False
 
 )
+
